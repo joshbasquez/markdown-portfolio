@@ -1,4 +1,4 @@
-#My favorite things
--programming
--gaming
--tinkering
+# My favorite things
+- programming
+- gaming
+- tinkering
